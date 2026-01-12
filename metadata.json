@@ -1,0 +1,7 @@
+{
+  "name": "GymPro Manager",
+  "description": "Una aplicación integral para la gestión de gimnasios: control de socios, inventario, pagos, empleados y envío de recibos por WhatsApp.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
